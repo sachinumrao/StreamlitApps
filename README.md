@@ -10,3 +10,6 @@ A collection of Streamlit apps
 ## 1. stcok_charts
 This app displays the stock price chart for companies selected from the dropdown.
 
+## 2. sentiment_analyzer
+This app tells the sentiment of text based on Vader sentiment analyzer library.
+

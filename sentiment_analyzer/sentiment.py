@@ -20,7 +20,7 @@ st.title('Sentment Analyzer')
 st.header('What Do You Have in Mind...')
 
 # Get text from user
-txt = st.text_input('','')
+txt = st.text_area('','')
 
 sentiment = None
 
